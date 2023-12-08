@@ -1,0 +1,931 @@
+{
+    "masks":
+    {
+        "images/0001.png":
+        {
+            "mask": "masks/0001.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Reviews", "super_category": "Ecommerce"}
+            }
+        },
+        "images/0002.png":
+        {
+            "mask": "masks/0002.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/0003.png":
+        {
+            "mask": "masks/0003.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Specification", "super_category": "Ecommerce"}
+            }
+        },
+        "images/004.png":
+        {
+            "mask": "masks/004.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/005.png":
+        {
+            "mask": "masks/005.png",
+            "color_categories":
+            {
+            
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/006.png":
+        {
+            "mask": "masks/006.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/007.png":
+        {
+            "mask": "masks/007.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/008.png":
+        {
+            "mask": "masks/008.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/009.png":
+        {
+            "mask": "masks/009.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/010.png":
+        {
+            "mask": "masks/010.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/011.png":
+        {
+            "mask": "masks/011.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/012.png":
+        {
+            "mask": "masks/012.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/013.png":
+        {
+            "mask": "masks/013.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/014.png":
+        {
+            "mask": "masks/014.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/015.png":
+        {
+            "mask": "masks/015.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/016.png":
+        {
+            "mask": "masks/016.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/017.png":
+        {
+            "mask": "masks/017.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/018.png":
+        {
+            "mask": "masks/018.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/019.png":
+        {
+            "mask": "masks/019.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/020.png":
+        {
+            "mask": "masks/020.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/021.png":
+        {
+            "mask": "masks/021.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+                
+            }
+        },
+        "images/022.png":
+        {
+            "mask": "masks/022.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/023.png":
+        {
+            "mask": "masks/023.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/024.png":
+        {
+            "mask": "masks/024.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/025.png":
+        {
+            "mask": "masks/025.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/026.png":
+        {
+            "mask": "masks/026.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/027.png":
+        {
+            "mask": "masks/027.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/028.png":
+        {
+            "mask": "masks/028.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/029.png":
+        {
+            "mask": "masks/029.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/030.png":
+        {
+            "mask": "masks/030.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/031.png":
+        {
+            "mask": "masks/031.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/032.png":
+        {
+            "mask": "masks/032.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/033.png":
+        {
+            "mask": "masks/033.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/034.png":
+        {
+            "mask": "masks/034.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/035.png":
+        {
+            "mask": "masks/035.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/036.png":
+        {
+            "mask": "masks/036.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/037.png":
+        {
+            "mask": "masks/037.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/038.png":
+        {
+            "mask": "masks/038.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/039.png":
+        {
+            "mask": "masks/039.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/040.png":
+        {
+            "mask": "masks/040.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/041.png":
+        {
+            "mask": "masks/041.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/042.png":
+        {
+            "mask": "masks/042.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/043.png":
+        {
+            "mask": "masks/043.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/044.png":
+        {
+            "mask": "masks/044.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/045.png":
+        {
+            "mask": "masks/045.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/046.png":
+        {
+            "mask": "masks/046.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/047.png":
+        {
+            "mask": "masks/047.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/048.png":
+        {
+            "mask": "masks/048.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/049.png":
+        {
+            "mask": "masks/049.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/050.png":
+        {
+            "mask": "masks/050.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/051.png":
+        {
+            "mask": "masks/051.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/052.png":
+        {
+            "mask": "masks/052.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/053.png":
+        {
+            "mask": "masks/053.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/054.png":
+        {
+            "mask": "masks/054.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/055.png":
+        {
+            "mask": "masks/055.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/056.png":
+        {
+            "mask": "masks/056.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/057.png":
+        {
+            "mask": "masks/057.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/058.png":
+        {
+            "mask": "masks/058.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/059.png":
+        {
+            "mask": "masks/059.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/060.png":
+        {
+            "mask": "masks/060.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/061.png":
+        {
+            "mask": "masks/061.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/062.png":
+        {
+            "mask": "masks/062.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/063.png":
+        {
+            "mask": "masks/063.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/064.png":
+        {
+            "mask": "masks/064.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/065.png":
+        {
+            "mask": "masks/065.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/066.png":
+        {
+            "mask": "masks/066.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/067.png":
+        {
+            "mask": "masks/067.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/068.png":
+        {
+            "mask": "masks/068.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/069.png":
+        {
+            "mask": "masks/069.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/070.png":
+        {
+            "mask": "masks/070.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/071.png":
+        {
+            "mask": "masks/071.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/072.png":
+        {
+            "mask": "masks/072.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/073.png":
+        {
+            "mask": "masks/073.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/074.png":
+        {
+            "mask": "masks/074.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/075.png":
+        {
+            "mask": "masks/075.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/076.png":
+        {
+            "mask": "masks/076.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/077.png":
+        {
+            "mask": "masks/077.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/078.png":
+        {
+            "mask": "masks/078.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/079.png":
+        {
+            "mask": "masks/079.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/080.png":
+        {
+            "mask": "masks/080.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/081.png":
+        {
+            "mask": "masks/081.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/082.png":
+        {
+            "mask": "masks/082.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/083.png":
+        {
+            "mask": "masks/083.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/084.png":
+        {
+            "mask": "masks/084.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/085.png":
+        {
+            "mask": "masks/085.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/086.png":
+        {
+            "mask": "masks/086.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/087.png":
+        {
+            "mask": "masks/087.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/088.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/089.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/090.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/091.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/092.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/093.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/094.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/095.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/096.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/097.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/098.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/099.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/0100.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "reviews", "super_category": "Ecommerce"}
+            }
+        },
+        "images/0100.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "specification", "super_category": "Ecommerce"}
+            }
+        },
+        "images/0100.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/0100.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/0100.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        },
+        "images/0100.png":
+        {
+            "mask": "masks/088.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "Description", "super_category": "Ecommerce"}
+            }
+        }
+       
+        
+    
+        
+    },
+    "super_categories":
+    {
+        "Ecommerce":[ "Description" ],
+        "Ecommerce":[ "Specification" ],
+        "Ecommerce":[ "Reviews" ]
+        
+    }
+}
