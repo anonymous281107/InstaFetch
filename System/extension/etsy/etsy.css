@@ -1,0 +1,209 @@
+/* The Modal (background) */
+.modal {
+    /* display: none; */
+    opacity: 0;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    padding-top: 100px;
+    /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+    z-index: 100;
+}
+
+.actual-content {
+    /* background: red; */
+    margin-top: 5%;
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #F0F0F0;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    min-height: 120px;
+    position: relative;
+    border-radius: 25px;
+    top: 25px
+}
+
+/* The Close Button */
+.close {
+    background: none;
+    border: none;
+    color: red;
+    right: 5%;
+}
+
+.close svg {
+    height: 25px;
+    width: 25px;
+}
+
+.myactionbtn {
+    align-items: center;
+    appearance: none;
+    background-color: #3EB2FD;
+    background-image: linear-gradient(1deg, #4F58FD, #149BF3 99%);
+    background-size: calc(100% + 20px) calc(100% + 20px);
+    border-radius: 100px;
+    border-width: 0;
+    box-shadow: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: CircularStd, sans-serif;
+    font-size: 1rem;
+    height: auto;
+    justify-content: center;
+    line-height: 1.5;
+    padding: 6px 20px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color .2s, background-position .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: top;
+    white-space: nowrap;
+}
+
+.myactionbtn:active,
+.myactionbtn:focus {
+    outline: none;
+    background-color: #EF4765;
+    background-image: linear-gradient(1deg, #071952, #071952 99%);
+}
+
+.myactionbtn:hover {
+    background-position: -20px -20px;
+}
+
+.myactionbtn:focus:not(:active) {
+    box-shadow: rgba(40, 170, 255, 0.25) 0 0 0 .125em;
+}
+
+#testbtn {}
+
+#detailbtn,
+#infobtn,
+#reviewbtn,
+#summarybtn,
+#qandabtn,
+#filterbtn,
+.close {
+    position: absolute;
+    top: 20px;
+
+}
+
+/* #detailbtn {
+    left: 3%
+}
+
+#infobtn {
+    left: 20%
+}
+
+#reviewbtn {
+    left: 26%;
+}
+
+#summarybtn {
+    left: 34%;
+}
+
+#qandabtn {
+    left: 46%;
+}
+
+#filterbtn {
+    left: 52%
+} */
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#question,
+#filterword {
+    color: rgba(0, 0, 0, .87);
+    border-bottom-color: rgba(0, 0, 0, .42);
+    font-size: 1rem;
+    font-weight: 400;
+    letter-spacing: .009375em;
+    text-decoration: inherit;
+    text-transform: inherit;
+    align-self: flex-end;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 20px 16px 6px;
+    transition: opacity 150ms cubic-bezier(0.4, 0, 0.2, 1);
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: 4px 4px 0 0;
+    background: rgb(245, 245, 245);
+    height: 56px;
+
+}
+
+#question,
+#filterword:hover {
+    border-bottom-color: rgba(0, 0, 0, .87);
+    background: #ececec;
+}
+
+#question,
+#filterword:focus {
+    border-color: #6200ee;
+}
+
+.optbtn {
+    background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+    border: 0;
+    border-radius: 12px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5;
+    outline: transparent;
+    padding: 0 1rem;
+    text-align: center;
+    text-decoration: none;
+    transition: box-shadow .2s ease-in-out;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+}
+
+.optbtn:not([disabled]):focus {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+
+.optbtn:not([disabled]):hover {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}

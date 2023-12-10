@@ -1,0 +1,97 @@
+{
+    "manifest_version": 3,
+    "name": "Autodetail",
+    "version": "1.0",
+    "description": "Auto Detail Extension",
+    "icons": {
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    },
+    "action": {
+        "default_icon": "icon16.png",
+        "default_popup": "popup.html",
+        "default_title": "AmazonHelper"
+    },
+    "background": {
+        "scripts": [
+            "eventPage.js"
+        ],
+        "persistent": false
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.amazon.com/s*"
+            ],
+            "js": [
+                "amazon/amazon.js"
+            ],
+            "css": [
+                "amazon/amazon.css"
+            ]
+        },
+        {
+            "matches": [
+                "https://www.ebay.com/p*",
+                "https://www.ebay.com/s*",
+                "https://www.ebay.com/"
+            ],
+            "js": [
+                "ebay/ebay.js"
+            ],
+            "css": [
+                "ebay/ebay.css"
+            ]
+        },
+        {
+            "matches": [
+                "https://www.enterprise.com/sch*"
+            ],
+            "js": [
+                "enterprise/enterprise.js"
+            ],
+            "css": [
+                "enterprise/enterprise.css"
+            ]
+        },
+        {
+            "matches": [
+                "https://www.etsy.com/trade*"
+            ],
+            "js": [
+                "etsy/etsy.js"
+            ],
+            "css": [
+                "etsy/etsy.css"
+            ]
+        },
+        {
+            "matches": [
+                "https://www.vbc.com/search*"
+            ],
+            "js": [
+                "vbc/vbc.js"
+            ],
+            "css": [
+                "vbc/vbc.css"
+            ]
+        }
+    ],
+    "permissions": [
+        "storage",
+        "tabs",
+        "https://www.amazon.com/s*",
+        "https://www.ebay.com/p*",
+        "https://www.ebay.com/s*",
+        "https://www.ebay.com/",
+        "https://www.enterprise.com/sch*",
+        "https://www.etsy.com/trade*",
+        "https://www.vbc.com/search*",
+        "activeTab",
+        "storage",
+        "identity",
+        "cookies",
+        "contextMenus"
+    ]
+}
