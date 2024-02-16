@@ -1,2 +1,2 @@
-# autodetail
-AutoDetail
+# InstaFetch
+InstaFetch

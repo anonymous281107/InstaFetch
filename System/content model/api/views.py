@@ -27,7 +27,7 @@ tiktoken.encoding_for_model('gpt-3.5-turbo')
 tokenizer = tiktoken.get_encoding('cl100k_base')
 
 # Creating a local index for vector storage
-index_name = 'autodetail'
+index_name = 'instafetch'
 
 
 def tiktoken_len(text):
